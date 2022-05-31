@@ -25,7 +25,7 @@ export const navigation = {
 	],
 }
 export const intro = {
-	title: "Hey, I'm Kunal",
+	title: "Hey, I'm Kunal!",
 	description: "A Computer Science and Computational Physics student interested in computer vision.",
 	image: profile.src,
 	buttons: [
