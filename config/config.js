@@ -86,12 +86,12 @@ export const projects = {
 			icons: [
 				{
 					icon: faGithub,
-					link: "https://github.com/kunalpa/Portfolio",
+					link: "https://github.com/kunalpa/portfolio",
 				},
 			]
 		},
 		{
-			title: "___FIX___",
+			title: "Car",
 			description: "",
 			icons: [
 				{
@@ -130,7 +130,7 @@ export const links = {
 	cards: [
 		{
 			title: "My website",
-			link: "",
+			link: "https://kunalpa.github.io/portfolio/",
 		},
 		{
 			title: "My GitHub",
