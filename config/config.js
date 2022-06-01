@@ -105,18 +105,13 @@ export const projects = {
 
 export const contact = {
 	title: "Get in touch",
-	description: "If you have any questions, comments, or just want to say hi, feel free to email or call me.",
+	description: "If you have any questions, comments, or just want to say hi, feel free to email me!",
 	buttons: [
 		{
 			title: "Email Me",
 			link: "mailto:kunal.pathak@unc.edu",
 			isPrimary: true,
-		},
-		{
-			title: "Call Me",
-			link: "(919)448-1227",
-			isPrimary: false,
-		},
+		}
 	]
 }
 
