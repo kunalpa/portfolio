@@ -89,17 +89,17 @@ export const projects = {
 					link: "https://github.com/kunalpa/portfolio",
 				},
 			]
-		},
-		{
-			title: "Car",
-			description: "",
-			icons: [
-				{
-					icon: faGithub,
-					link: "",
-				},
-			]
-		},
+		}
+		// {
+		// 	title: "Car",
+		// 	description: "",
+		// 	icons: [
+		// 		{
+		// 			icon: faGithub,
+		// 			link: "",
+		// 		},
+		// 	]
+		// },
 	],
 }
 
