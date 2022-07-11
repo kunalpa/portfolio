@@ -48,7 +48,7 @@ export const about = {
 		"I am a rising Junior studying Computer Science and Computational Physics at UNC-Chapel Hill",
 		"I am currently working for Fidelity Investments as a Full Stack Intern. During late high school and college, I have taken a special interest in developing predictive models utilizing mathematical and computer science fundamentals",
 		"Math models that interest me the most include Monte Carlo integration, Kalman Filters, and varying ordered Runge-Kutta",
-		"When I’m not programming, I enjoy weightlifting, gaming, and playing basketball with friends.",
+		"When I’m not programming, I enjoy weightlifting, gaming, and playing basketball with friends",
 	],
 }
 
@@ -57,13 +57,17 @@ export const work = {
 	cards: [
 		{
 			title: "Backend Development",
-			description: "I work on backend projects ranging from tracking the stock market to PR automation using Kubernetes.",
+			description: "I work on backend projects ranging from tracking the stock market to modeling linear algebraic operations",
 			icons: null,
 		},
 		{
 			title: "Numerical Methods",
-			description: "I use differential equations to model immerging physics and mathematics problems.",
+			description: "I use differential equations to model immerging physics and mathematics problems",
 			icons: null,
+		},
+		{
+			title: "DevOps",
+			description: "I set up an automatic PR manager in GitHub using Kubernetes, AWS, and Prow to reduce merge and rebasing conflicts"
 		}
 	],
 }
@@ -73,7 +77,7 @@ export const projects = {
 	cards: [
 		{
 			title: "Covid-19 Effects Dashboard",
-			description: "A dashboard built to track the effects of Covid-19 at a global scale.",
+			description: "A dashboard built to track the effects of Covid-19 at a global scale",
 			icons: [
 				{
 					icon: faGithub,
