@@ -26,7 +26,7 @@ export const navigation = {
 }
 export const intro = {
 	title: "Hey, I'm Kunal!",
-	description: "A Computer Science and Computational Physics student interested in computer vision.",
+	description: "A Computer Science and Computational Physics student interested in computer vision and machine learning.",
 	image: profile.src,
 	buttons: [
 		{
@@ -36,7 +36,7 @@ export const intro = {
 		},
 		{
 			title: "Resume",
-			link: "https://docs.google.com/document/d/1mr0YNYw-Ab3Ijo0LJTuXfBBO7ldJdQlN8zc4dLAViqA/edit?usp=sharing",
+			link: "https://docs.google.com/document/d/1-uxhPJRDCmdihjPes10ZoK1UaDzidJMeyRBFMO8usj0/edit?usp=sharing",
 			isPrimary: false,
 		},
 	],
@@ -56,7 +56,7 @@ export const work = {
 	cards: [
 		{
 			title: "Backend Development",
-			description: "I work on backend projects ranging from tracking the stock market to automating deployment using Kubernetes.",
+			description: "I work on backend projects ranging from tracking the stock market to PR automation using Kubernetes.",
 			icons: null,
 		},
 		{
