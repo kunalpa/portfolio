@@ -26,7 +26,7 @@ export const navigation = {
 }
 export const intro = {
 	title: "Hey, I'm Kunal!",
-	description: "A Computer Science and Computational Physics student interested in numerical methods and mathematical predictive modeling.",
+	description: "A Computer Science and Computational Physics student interested in numerical methods, mathematical predictive modeling, and machine learning.",
 	image: profile.src,
 	buttons: [
 		{
