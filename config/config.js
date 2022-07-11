@@ -26,7 +26,7 @@ export const navigation = {
 }
 export const intro = {
 	title: "Hey, I'm Kunal!",
-	description: "A Computer Science and Computational Physics student interested in the cross-section between computer science and physics through numerical methods and mathematical modeling.",
+	description: "A Computer Science and Computational Physics student interested in numerical methods and mathematical predictive modeling.",
 	image: profile.src,
 	buttons: [
 		{
@@ -46,8 +46,8 @@ export const about = {
 	title: "Who I am",
 	description: [
 		"I am a rising Junior studying Computer Science and Computational Physics at UNC-Chapel Hill",
-		"I am currently working for Fidelity Investments as a Full Stack Intern. During late high school and college, I have taken a special interest in developing predictive models utilizing mathematical and computer science fundamentals",
-		"Math models that interest me the most include Monte Carlo integration, Kalman Filters, and varying ordered Runge-Kutta",
+		"I am currently working for Fidelity Investments as a Full Stack Intern. During late high school and throughout college, I have taken a special interest in developing predictive models utilizing mathematical and computer science fundamentals",
+		"Math models that interest me the most include Monte Carlo Integration, Kalman Filters, and varying ordered Runge-Kutta",
 		"When I’m not programming, I enjoy weightlifting, gaming, and playing basketball with friends",
 	],
 }
