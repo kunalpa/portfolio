@@ -67,7 +67,8 @@ export const work = {
 		},
 		{
 			title: "DevOps",
-			description: "I set up an automatic PR manager in GitHub using Kubernetes, AWS, and Prow to reduce merge and rebasing conflicts"
+			description: "I set up an automatic PR manager in GitHub using Kubernetes, AWS, and Prow to reduce merge and rebasing conflicts",
+			icons: null,
 		}
 	],
 }
@@ -87,7 +88,7 @@ export const projects = {
 		},
 		{
 			title: "Portfolio",
-			description: "A collection of projects I completed before understanding how Git and GitHub worked",
+			description: "A collection of projects I completed before learning Git and the importance of continuous inegration",
 			icons: [
 				{
 					icon: faGithub,
