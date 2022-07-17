@@ -92,7 +92,7 @@ export const projects = {
 			icons: [
 				{
 					icon: faGithub,
-					link: "https://github.com/kunalpa/portfolio",
+					link: "https://github.com/kunalpa/collection",
 				},
 			]
 		}
