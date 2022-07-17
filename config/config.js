@@ -88,7 +88,7 @@ export const projects = {
 		},
 		{
 			title: "Portfolio",
-			description: "A collection of projects I completed before learning Git and the importance of continuous inegration",
+			description: "A collection of school and school-related projects displaying a variety of skills",
 			icons: [
 				{
 					icon: faGithub,
