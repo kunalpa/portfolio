@@ -48,7 +48,7 @@ export const about = {
 		"I am a rising Junior studying Computer Science and Computational Physics at UNC-Chapel Hill",
 		"I am currently working for Fidelity Investments as a Full Stack Intern. During late high school and throughout college, I have taken a special interest in developing predictive models utilizing mathematical and computer science fundamentals",
 		"Math models that interest me the most include Monte Carlo Integration, Kalman Filters, and varying ordered Runge-Kutta",
-		"When I’m not programming, I enjoy weightlifting, gaming, and playing basketball with friends",
+		"When I’m not programming, I enjoy weightlifting, playing basketball, and building rc cars",
 	],
 }
 
@@ -88,7 +88,7 @@ export const projects = {
 		},
 		{
 			title: "Portfolio",
-			description: "A collection of school and school-related projects displaying a variety of skills",
+			description: "A collection of projects displaying a variety of skills added after development",
 			icons: [
 				{
 					icon: faGithub,
