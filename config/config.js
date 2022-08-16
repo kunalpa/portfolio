@@ -57,7 +57,7 @@ export const work = {
 	cards: [
 		{
 			title: "Backend Development",
-			description: "I work on backend projects ranging from tracking the stock market to modeling linear algebraic operations",
+			description: "I work on backend projects ranging from tracking the stock market to modeling and analyzing mathematical operations",
 			icons: null,
 		},
 		{
@@ -67,7 +67,7 @@ export const work = {
 		},
 		{
 			title: "DevOps",
-			description: "I set up an automatic PR manager in GitHub using Kubernetes, AWS, and Prow to reduce merge and rebasing conflicts",
+			description: "I am familiar with the infrastructure in place for companies to build and launch production and non-production pipelines",
 			icons: null,
 		}
 	],
