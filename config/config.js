@@ -45,10 +45,11 @@ export const intro = {
 export const about = {
 	title: "Who I am",
 	description: [
-		"I am a rising Junior studying Computer Science and Computational Physics at UNC-Chapel Hill",
-		"I am currently working for Fidelity Investments as a Full Stack Intern. During late high school and throughout college, I have taken a special interest in developing predictive models utilizing mathematical and computer science fundamentals",
-		"Math models that interest me the most include Monte Carlo Integration, Kalman Filters, and varying ordered Runge-Kutta",
-		"When I’m not programming, I enjoy weightlifting, playing basketball, and building rc cars",
+		"I am a Junior studying Computer Science and Computational Physics at UNC-Chapel Hill",
+		"Last summer, I interned at Fidelity Investments as a Full Stack Engineer.",
+		"I have taken a special interest in developing predictive models utilizing mathematical and computer science fundamentals",
+		"Math and statistics models that interest me the most include Monte Carlo Integration, Markov Chains, and Unscented Kalman Filters",
+		"When I’m not programming, I enjoy weightlifting and playing basketball",
 	],
 }
 
@@ -57,17 +58,17 @@ export const work = {
 	cards: [
 		{
 			title: "Backend Development",
-			description: "I work on backend projects ranging from tracking the stock market to modeling and analyzing mathematical operations",
+			description: "I work on backend projects ranging from tracking the stock market to modeling and tinkering with statistical models",
 			icons: null,
 		},
 		{
 			title: "Numerical Methods",
-			description: "I use differential equations to model immerging physics and mathematics problems",
+			description: "I use differential equations to model physics and mathematics problems",
 			icons: null,
 		},
 		{
 			title: "DevOps",
-			description: "I am familiar with the infrastructure in place for companies to build and launch production and non-production pipelines",
+			description: "I used Kubernetes along with relavent dependencies to establish a GitHub CI/CD system to reduce PR lifecycles",
 			icons: null,
 		}
 	],
