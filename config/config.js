@@ -26,7 +26,7 @@ export const navigation = {
 }
 export const intro = {
 	title: "Hey, I'm Kunal!",
-	description: "A Computer Science and Computational Physics student interested in numerical methods, mathematical predictive modeling, and machine learning.",
+	description: "A Computer Science and Computational Physics student interested in applying my computer science skills in a fast-paced work environment.",
 	image: profile.src,
 	buttons: [
 		{
@@ -48,8 +48,8 @@ export const about = {
 		"I am a Junior studying Computer Science and Computational Physics at UNC-Chapel Hill",
 		"Last summer, I interned at Fidelity Investments as a Full Stack Engineer.",
 		"I have taken a special interest in developing predictive models utilizing mathematical and computer science fundamentals",
-		"Math and statistics models that interest me the most include Monte Carlo Integration, Markov Chains, and Unscented Kalman Filters",
-		"When I’m not programming, I enjoy weightlifting and playing basketball",
+		"Math and statistics models that interest me the most include Monte Carlo, Markov Chains, and Kalman Filters",
+		"When I’m not programming, I enjoy weightlifting, playing basketball, and cooking",
 	],
 }
 
@@ -58,16 +58,16 @@ export const work = {
 	cards: [
 		{
 			title: "Backend Development",
-			description: "I work on backend projects ranging from tracking the stock market to modeling and tinkering with statistical models",
+			description: "I work on backend projects ranging from tracking the stock market to modeling and manipulating statistical models for text prediction",
 			icons: null,
 		},
 		{
 			title: "Numerical Methods",
-			description: "I use differential equations to model physics and mathematics problems",
+			description: "I use differential equations, physics theory, and statistics to model real-world problems",
 			icons: null,
 		},
 		{
-			title: "DevOps",
+			title: "Full Stack Engineering",
 			description: "I used Kubernetes along with relavent dependencies to establish a GitHub CI/CD system to reduce PR lifecycles",
 			icons: null,
 		}
