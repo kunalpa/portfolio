@@ -36,7 +36,7 @@ export const intro = {
 		},
 		{
 			title: "Resume",
-			link: "https://docs.google.com/document/d/18Lpe9t3ajTOzhhMqBuH-X4WwwPMzhKOL_Hw7sBP54rE/edit?usp=sharing",
+			link: "https://docs.google.com/document/d/1fRq1apiTb5LCXV2bZxzIvifqu-NH0C606o0Hew-g3Gg/edit?usp=sharing",
 			isPrimary: false,
 		},
 	],
@@ -45,8 +45,8 @@ export const intro = {
 export const about = {
 	title: "Who I am",
 	description: [
-		"I am a Junior studying Computer Science and Computational Physics at UNC-Chapel Hill",
-		"Last summer, I interned at Fidelity Investments as a Full Stack Engineer.",
+		"I am a rising Senior studying Computer Science and Computational Physics at UNC-Chapel Hill",
+		"I am interning this summer at Fidelity Investments as a Full Stack Engineer.",
 		"I have taken a special interest in developing predictive models utilizing mathematical and computer science fundamentals",
 		"Math and statistics models that interest me the most include Monte Carlo, Markov Chains, and Kalman Filters",
 		"When I’m not programming, I enjoy weightlifting, playing basketball, and cooking",
@@ -58,7 +58,7 @@ export const work = {
 	cards: [
 		{
 			title: "Backend Development",
-			description: "I work on backend projects ranging from tracking the stock market to modeling and manipulating statistical models for text prediction",
+			description: "I work on backend projects ranging from short-term stock price predictors to modeling and manipulating statistical models for text prediction",
 			icons: null,
 		},
 		{
@@ -97,16 +97,6 @@ export const projects = {
 				},
 			]
 		}
-		// {
-		// 	title: "Car",
-		// 	description: "",
-		// 	icons: [
-		// 		{
-		// 			icon: faGithub,
-		// 			link: "",
-		// 		},
-		// 	]
-		// },
 	],
 }
 
