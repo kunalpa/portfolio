@@ -26,7 +26,7 @@ export const navigation = {
 }
 export const intro = {
 	title: "Hey, I'm Kunal!",
-	description: "A Computer Science and Computational Physics student interested in applying my computer science skills in a fast-paced work environment.",
+	description: "A Computer Science graduate student interested in backend development.",
 	image: profile.src,
 	buttons: [
 		{
@@ -45,8 +45,8 @@ export const intro = {
 export const about = {
 	title: "Who I am",
 	description: [
-		"I am a rising Senior studying Computer Science and Computational Physics at UNC-Chapel Hill",
-		"I am interning this summer at Fidelity Investments as a Full Stack Engineer.",
+		"I am a Masters student studying Computer Science at UNC-Chapel Hill",
+		"I am currently interning at Tesla Motors as a Datacenter Infrastructure Engineer.",
 		"I have taken a special interest in developing predictive models utilizing mathematical and computer science fundamentals",
 		"Math and statistics models that interest me the most include Monte Carlo, Markov Chains, and Kalman Filters",
 		"When I’m not programming, I enjoy weightlifting, playing basketball, and cooking",
@@ -67,8 +67,8 @@ export const work = {
 			icons: null,
 		},
 		{
-			title: "Full Stack Engineering",
-			description: "I used Kubernetes along with relavent dependencies to establish a GitHub CI/CD system to reduce PR lifecycles",
+			title: "Infrastructure Engineering",
+			description: "I have a strong understanding of Kubernetes and have been a sole or key contributor to three large-scale projects.",
 			icons: null,
 		}
 	],
@@ -125,7 +125,7 @@ export const contact = {
 // SEARCH ENGINE 
 export const SEO = {
 	// 50 - 60 char  
-	title: "Kunal Pathak | Computer Scientist | Python and Java developer",
+	title: "Kunal Pathak | Computer Scientist | Software Engineer",
 	description: "I am interested in software engineering.",
 	image: profile.src,
 }
@@ -133,7 +133,7 @@ export const SEO = {
 export const links = {
 	image: profile.src,
 	title: "@kunalpa",
-	description: "Software Engineer | Computer Scientist | Python and Java Developer",
+	description: "Software Engineer | Computer Scientist | Physics Enthusiast",
 	cards: [
 		{
 			title: "My website",
