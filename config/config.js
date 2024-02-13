@@ -26,7 +26,7 @@ export const navigation = {
 }
 export const intro = {
 	title: "Hey, I'm Kunal!",
-	description: "A Computer Science graduate student interested in backend development.",
+	description: "A Computer Science graduate student interested in backend engineering.",
 	image: profile.src,
 	buttons: [
 		{
