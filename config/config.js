@@ -1,5 +1,5 @@
 
-import profile from './profile.png';
+import profile from './boston_headshot.JPEG';
 import { faAppStore, faGithub, faGooglePlay } from '@fortawesome/free-brands-svg-icons';
 import { } from '@fortawesome/free-solid-svg-icons';
 
@@ -78,6 +78,16 @@ export const projects = {
 	title: "Projects",
 	cards: [
 		{
+			title: "Peer2Peer Lending Insights",
+			description: "Developed a Peer-2-Peer investment strategy employing a precision-maximizing random forest model.",
+			icons: [
+				{
+					icon: faGithub,
+					link: "https://github.com/kunalpa/Peer2Peer_lending_insights",
+				},
+			]
+		},
+		{
 			title: "Covid-19 Effects Dashboard",
 			description: "A dashboard built to track the effects of Covid-19 at a global scale",
 			icons: [
@@ -88,12 +98,12 @@ export const projects = {
 			]
 		},
 		{
-			title: "Portfolio",
-			description: "A collection of projects displaying a variety of skills added after development",
+			title: "Compressible Fluid Dynamics",
+			description: "Solving the Compressible Fluid Equations Numerically",
 			icons: [
 				{
 					icon: faGithub,
-					link: "https://github.com/kunalpa/collection",
+					link: "https://github.com/kunalpa/Compressible-Fluid-Equations",
 				},
 			]
 		}
