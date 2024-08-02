@@ -46,9 +46,8 @@ export const about = {
 	title: "Who I am",
 	description: [
 		"I am a Masters student studying Computer Science at UNC-Chapel Hill",
-		"I am currently interning at Tesla Motors as a Datacenter Infrastructure Engineer.",
-		"I have taken a special interest in developing predictive models utilizing mathematical and computer science fundamentals",
-		"Math and statistics models that interest me the most include Monte Carlo, Markov Chains, and Kalman Filters",
+		"I have taken a special interest in development processes that leverage distributed systems and computer science fundamentals",
+		"Projects that I typically enjoy include developing code to automate Kubernetes deployments resulting in highly-available SaaS offerings",
 		"When I’m not programming, I enjoy weightlifting, playing basketball, and cooking",
 	],
 }
@@ -58,7 +57,7 @@ export const work = {
 	cards: [
 		{
 			title: "Backend Development",
-			description: "I work on backend projects ranging from short-term stock price predictors to modeling and manipulating statistical models for text prediction",
+			description: "I work on backend projects ranging from short-term stock price predictors to modeling and training models for cancer detection",
 			icons: null,
 		},
 		{
